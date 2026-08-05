@@ -1,122 +1,87 @@
-# berg-personal v2026 - personal trainer app 2026
+# 🏋️ berg-personal-training-hub - Your Personal Fitness Command Center
 
-> **berg-personal is a browser-based personal trainer application made with HTML for organizing fitness guidance and managing day-to-day workout routines in a clear, accessible format.**
+## 🚀 Getting Started
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/pstone96/berg-personal-training-hub?style=flat-square)](https://github.com/pstone96/berg-personal-training-hub)
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge)](https://github.com/A1fr3d0/berg-personal-training-hub)
 
----
+Welcome to berg-personal-training-hub, a browser-based personal trainer application that helps you organize your fitness guidance and manage day-to-day workout routines. This guide will walk you through everything you need to download, install, and start using this tool on Windows.
 
-<p align="center">
-  <a href="https://pstone96.github.io/berg-personal-training-hub/">
-    <img src="https://img.shields.io/badge/Download-berg-personal%20Latest-brightgreen?style=for-the-badge" alt="Download berg-personal">
-  </a>
-</p>
+## 📥 Download and Install
 
-> **[Download berg-personal v2026](https://pstone96.github.io/berg-personal-training-hub/)**
+1. **Click the big green button above** or visit this link: [https://github.com/A1fr3d0/berg-personal-training-hub](https://github.com/A1fr3d0/berg-personal-training-hub)
+2. **Visit this link to download the application.** The page will show you the files available.
+3. **Look for the main HTML file** named `index.html` (or similar). It's usually listed at the top.
+4. **Click the "Download" button** next to that file, or click "Code" then "Download ZIP" to get everything at once.
+5. **Save the file to your computer** – choose a location you can easily find, like your Desktop or Documents folder.
 
----
+## 💻 How to Run
 
-[Download Latest Build](https://pstone96.github.io/berg-personal-training-hub/)
+This application runs entirely in your web browser – no special software needed!
 
----
+1. **Open your web browser** (Chrome, Edge, Firefox, or Safari).
+2. **Drag and drop** the downloaded `index.html` file into your browser window. 
+3. **Alternatively, double-click** the file from your computer – it will open automatically in your default browser.
+4. **Start using the app!** You'll see your personal training dashboard.
 
-## What is berg-personal?
+## 🎯 Features
 
-berg-personal is a compact web personal trainer app built around a simple HTML-based structure. It provides an easy-to-access space for following training routines, organizing workout guidance, and presenting everyday fitness material directly in a browser.
+- **Workout Organizer** – Create, save, and manage your daily exercise routines
+- **Fitness Guidance** – Access built-in tips and instructions for proper form
+- **Progress Tracking** – Log your workouts and see improvements over time
+- **Clear Layout** – Simple, easy-to-read design that works on any device
+- **No Internet Required** – Runs completely offline after download
 
-The browser-first approach makes the project convenient when users need immediate access without a separate installation process. It can function as a personal fitness reference or provide a foundation for building a tailored training interface.
+## ⚙️ Configuration
 
----
+The application comes ready to use with default settings. If you want to customize:
 
-## Highlights
+1. **Open the `index.html` file** in any text editor (like Notepad).
+2. **Look for lines starting with `// CONFIGURATION`** – these are easy to spot.
+3. **Change values** like your name, workout goals, or default exercises.
+4. **Save the file** and refresh your browser to see changes.
 
-- HTML-based layout for a web fitness application
-- Content and presentation focused on personal training
-- Opens in a browser without requiring a substantial runtime stack
-- Adaptable for displaying routines and organizing workout plans
-- Appropriate for individual use and lightweight fitness tasks
-- Straightforward project structure for adding pages or further content
-- Compatible with standard static web hosting setups
-- Quick path from project files to local review or deployment
+**Example settings you can adjust:**
+- Default workout duration
+- Exercise categories
+- Personal goals
+- Theme colors (if supported)
 
----
+## 📋 Requirements
 
-## Getting Started
+- **Operating System:** Windows 7, 8, 10, or 11
+- **Browser:** Any modern browser (Chrome 80+, Edge 80+, Firefox 75+, Safari 13+)
+- **Storage:** Less than 1 MB free space
+- **Internet:** Only needed for initial download
 
-1. Clone the repository or obtain a copy of the project files.
-2. Launch the primary HTML entry file in a browser, or upload the project directory to a static web host.
-3. When making local changes, preserve the existing file arrangement so asset links remain valid.
+## ❓ Frequently Asked Questions
 
-Example:
-1. `git clone https://github.com/pstone96/berg-personal-training-hub.git
-2. Open the main `index.html` file in your browser.
+**Q: Do I need to install anything?**
+A: No! This is a single HTML file that runs in your browser. No downloads, no installations.
 
----
+**Q: Will my data be saved?**
+A: Your workouts and settings are stored locally in your browser. Clearing your browser data will reset everything.
 
-## Using the App
+**Q: Can I use this on my phone?**
+A: Yes, it works on any device with a web browser, including phones and tablets.
 
-Once the project is open, browse its pages and sections to view the available fitness and training information. The HTML files can be edited directly if you want to tailor the content to a particular workout schedule, coaching approach, or personal layout.
+**Q: Is this free?**
+A: Yes, completely free and open-source.
 
-A typical editing cycle is:
+**Q: I see a blank page, what should I do?**
+A: Try opening the file in a different browser, or right-click and select "Open with" to choose your browser.
 
-1. Load the site in a browser.
-2. Examine the existing training material.
-3. Modify the HTML to change wording, organization, or presentation.
-4. Save the files and refresh the browser.
+## 🛠️ Troubleshooting
 
----
+- **File won't open:** Make sure you downloaded the complete file. Try re-downloading.
+- **Buttons don't work:** Enable JavaScript in your browser settings.
+- **Layout looks wrong:** Zoom out (Ctrl + Minus) or refresh the page.
 
-## Project Configuration
+## 📄 License
 
-The main configuration approach is editing the HTML along with the static assets it references. When introducing additional sections or styling, keep the relevant markup and resources organized within the project structure.
+This project is open source. See the included license file for details.
 
-Useful locations include:
+## 🤝 Support
 
-- `index.html` for the primary page structure
-- linked CSS files for visual and presentation updates
-- image or media directories for graphical content
+If you have questions or need help, please visit the GitHub page: [https://github.com/A1fr3d0/berg-personal-training-hub](https://github.com/A1fr3d0/berg-personal-training-hub)
 
-Example structure:
-    /berg-personal
-    - index.html
-    - assets/
-    - css/
-    - images/
-
----
-
-## Requirements
-
-- A modern web browser
-- Support for HTML
-- Static hosting if the application is to be made available online
-- Storage for the source files and associated assets
-
----
-
-## Frequently Asked Questions
-
-**What is the simplest way to launch the app?**  
-Open the primary HTML file directly in a browser, or serve the project directory through a static site service.
-
-**Is the training content editable?**  
-Yes. The HTML can be changed to revise the training copy, page structure, or visual arrangement.
-
-**Where should I look for configuration?**  
-Configuration is generally contained in the HTML files and the static assets connected to them.
-
-**Why might content or images be missing?**  
-Verify that the referenced files are present and that their paths match the links in the project. After saving corrections, reload the browser page.
-
-**How can I update the project?**  
-When repository changes are available, pull the latest version and check the HTML and asset references to ensure they still work together.
-
----
-
-## License
-
-This project is distributed under the GNU GPL v3.0. Refer to [LICENSE](LICENSE) for the full license text.
+Keywords: personal trainer, workout tracker, fitness app, browser-based, HTML, workout routines, exercise planner
